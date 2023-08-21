@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaneath&label=Profile%20views&color=0e75b6&style=flat" alt="vaneath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaneath" alt="vaneath" /></a> </p>
-
 - 🔭 I’m currently working on [Dmenu](https://github.com/vaneath/Dmenu.git)
 
 - 🌱 I’m currently learning **Ruby on Rails**
