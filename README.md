@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Savuth Yuvaneath</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaneath&label=Profile%20views&color=0e75b6&style=flat" alt="vaneath" /> </p>
-
 - 🔭 I’m currently working on [Dmenu](https://github.com/vaneath/Dmenu.git)
 
 - 🌱 I’m currently learning **Ruby on Rails**
