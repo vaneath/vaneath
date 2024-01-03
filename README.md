@@ -3,5 +3,4 @@
 ### Junior Software Developer at BookMeBus
 
 - 🔭 I’m currently working on [Dmenu](https://github.com/vaneath/dmenu-capstone1)
-- 📫 How to reach me [vaneath](vaneathzz@gmail.com)
-
+- 📫 How to reach me **vaneathzz@gmail.com**
