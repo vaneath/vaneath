@@ -7,4 +7,4 @@
 
 ### Blockchain Voting System with OCR
 
-**Checkout**: _https://github.com/Blockchain-Voting-Based-System_
+**Checkout**: [Vodth](https://github.com/Blockchain-Voting-Based-System)
