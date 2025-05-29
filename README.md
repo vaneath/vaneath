@@ -8,7 +8,7 @@ I'm a passionate Full-Stack Developer with a knack for building scalable web app
 
 ## 🚀 Projects
 
-### 🗳️ [Vodth](https://github.com/vaneath/Vodth)
+### 🗳️ [Vodth](https://github.com/Blockchain-Voting-Based-System/)
 A blockchain-based voting system integrated with OCR technology to ensure secure and transparent elections.
 
 ### 📊 [Clickdash](https://github.com/valome-org/clickdash-ui)
@@ -19,14 +19,6 @@ A backend system developed with Blade, focusing on efficient data processing and
 
 ### 💡 [AMK Ideation](https://github.com/vaneath/amk-ideation)
 A Vue.js application designed to facilitate brainstorming sessions, capturing innovative ideas, and promoting collaborative creativity.
-
----
-
-## 🏆 Achievements
-
-- 🧠 **Pair Extraordinaire**: Collaborated effectively in team environments.
-- ⚡ **Quickdraw**: Delivered solutions promptly under tight deadlines.
-- 🎯 **YOLO**: Took initiative on challenging projects with confidence.
 
 ---
 
